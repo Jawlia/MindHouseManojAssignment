@@ -8,7 +8,7 @@ This is demo application, using iTunes free search API. Technologies used HTML5,
 
 ## Demo
 
-You can check out live demo here : https://video.drift.com/v/aberZIOiXeg/
+You can check out live demo here : https://video.drift.com/v/abL81vRo6lq/
 
 ## Prerequisite
 
