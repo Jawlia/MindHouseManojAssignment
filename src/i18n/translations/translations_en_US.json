@@ -1,0 +1,21 @@
+{
+  "details": {
+    "artist": "Artist",
+    "checkCollection": "Check Collection",
+    "collection": "Collection",
+    "price": "Price",
+    "releaseDate": "Release Date",
+    "track": "Track",
+    "unableToOpen": "Unable to open, please try after some time!"
+  },
+  "searchItunes": {
+    "search": "Search",
+    "title": "Search Itunes"
+  },
+  "splash": {
+    "description": "Feel the music",
+    "developerInfo": "Manoj Kumar Jawlia\nmanoj.jawlia@gmail.com\n+91-8802855746 / 9650415436",
+    "disclaimer": "This app is for assignment / learning purpose only",
+    "header": "iTunes"
+  }
+}
